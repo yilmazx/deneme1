@@ -1,0 +1,18 @@
+.ms-Primary-Button {
+  background-color: #2d9bf0;
+  border-color: #2d9bf0;
+}
+
+.ms-Primary-Button:hover {
+  background-color: #0b5ed7;
+  color: white;
+  border-color: #0b5ed7;
+}
+.ms-Primary-Button:focus {
+  background-color: #3f51b5;
+  border-color: #3f51b5;
+}
+.ms-Primary-ButtonLink {
+  text-decoration: unset;
+  font-weight: 400;
+}

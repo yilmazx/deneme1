@@ -1,0 +1,29 @@
+{
+  "mayaApp": {
+    "lookup": {
+      "home": {
+        "title": "Lookups",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Lookup erstellen",
+        "createOrEditLabel": "Lookup erstellen oder bearbeiten",
+        "notFound": "Keine Lookups gefunden"
+      },
+      "created": "Lookup erstellt mit ID {{ param }}",
+      "updated": "Lookup aktualisiert mit ID {{ param }}",
+      "deleted": "Lookup gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Lookup {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Lookup"
+      },
+      "id": "ID",
+      "name": "Name",
+      "lang": "Lang",
+      "uid": "Uid",
+      "value": "Value",
+      "description": "Description",
+      "parent": "Parent"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+/* ==========================================================================
+Main page styles
+========================================================================== */
+.hipster {
+  display: inline-block;
+  width: 100%;
+  height: 497px;
+  background: url('../../../content/images/jhipster_family_member_0.svg') no-repeat center top;
+  background-size: contain;
+}
+
+.homeButton {
+  background-color: #3f51b5;
+  border-color: #3f51b5;
+  padding-left: 3%;
+  padding-right: 3%;
+  border-radius: unset;
+  font-size: 1.2rem;
+}
+.homeDocumentButton {
+  background-color: #f7a469;
+  border-color: #f7a469;
+  padding-left: 3%;
+  padding-right: 3%;
+  border-radius: unset;
+  font-size: 1.2rem;
+}
+
+.orangeColor {
+  color: #f7a469;
+  text-align: left;
+}
+
+.padding1Percent {
+  padding: 1%;
+}
+
+.margintop10Percent {
+  margin-top: 10%;
+}
+
+.textAlignLeft {
+  text-align: left;
+}
+
+.paddingLeft5Percent {
+  padding-left: 5%;
+}
+.tryFreePage-greeting {
+  background-color: white;
+  width: 45%;
+  text-align: center;
+}
+
+.tryFreePage-conatiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 25vh;
+  padding-bottom: 25vh;
+  color: black;
+}
+.tryFreePage-buttons-container {
+  width: 33%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2%;
+}
+.tryFree-buttons {
+  background-color: #f5d473;
+  border-color: black;
+  font-weight: bold;
+  color: black;
+}
+.tryFree-buttons:hover {
+  background-color: #f1c535;
+  border-color: black;
+  font-weight: bold;
+  color: black;
+}
+.tryFree-buttons:focus {
+  background-color: #f5d473;
+  border-color: black;
+  font-weight: bold;
+  color: black;
+}

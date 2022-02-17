@@ -1,0 +1,38 @@
+{
+  "mayaApp": {
+    "contract": {
+      "home": {
+        "title": "Contracts",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Contract erstellen",
+        "createOrEditLabel": "Contract erstellen oder bearbeiten",
+        "notFound": "Keine Contracts gefunden"
+      },
+      "created": "Contract erstellt mit ID {{ param }}",
+      "updated": "Contract aktualisiert mit ID {{ param }}",
+      "deleted": "Contract gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Contract {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Contract"
+      },
+      "id": "ID",
+      "contractname": "Contractname",
+      "contractpath": "Contractpath",
+      "uid": "Uid",
+      "user": "User",
+      "isdeleted": "Isdeleted",
+      "isenabled": "Isenabled",
+      "updateDate": "Update Date",
+      "createDate": "Create Date",
+      "createBy": "Create By",
+      "updateBy": "Update By",
+      "city": "City",
+      "country": "Country",
+      "legalarea": "Legalarea",
+      "industry": "Industry",
+      "contracttype": "Contracttype"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "mayaApp": {
+    "contractInput": {
+      "home": {
+        "title": "Contract Inputs",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Contract Input erstellen",
+        "createOrEditLabel": "Contract Input erstellen oder bearbeiten",
+        "notFound": "Keine Contract Inputs gefunden"
+      },
+      "created": "Contract Input erstellt mit ID {{ param }}",
+      "updated": "Contract Input aktualisiert mit ID {{ param }}",
+      "deleted": "Contract Input gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Contract Input {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Contract Input"
+      },
+      "id": "ID",
+      "inputname": "Inputname",
+      "inputvalue": "Inputvalue",
+      "uid": "Uid",
+      "isdeleted": "Isdeleted",
+      "isenabled": "Isenabled",
+      "updateDate": "Update Date",
+      "createDate": "Create Date",
+      "createBy": "Create By",
+      "updateBy": "Update By",
+      "contract": "Contract"
+    }
+  }
+}

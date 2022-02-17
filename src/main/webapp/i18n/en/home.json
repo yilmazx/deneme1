@@ -1,0 +1,51 @@
+{
+  "home": {
+    "title": "Welcome, Java Hipster!",
+    "subtitle": "Create, download or sign a document or upload your document and Sign",
+    "logged": {
+      "message": "You are logged in as user \"{{username}}\"."
+    },
+    "question": "If you have any question on JHipster:",
+    "link": {
+      "homepage": "JHipster homepage",
+      "stackoverflow": "JHipster on Stack Overflow",
+      "bugtracker": "JHipster bug tracker",
+      "chat": "JHipster public chat room",
+      "follow": "follow @jhipster on Twitter"
+    },
+    "like": "If you like JHipster, don't forget to give us a star on",
+    "github": "GitHub",
+    "tryFree": "TRY IT FOR FREE",
+    "greeting": "Hey I am Maya.",
+    "whatwouldyoulike": "What would you like?",
+    "creatdocument": "Create Document",
+    "uploadandsign": "Upload and Sign your document",
+    "bookDemo": "BOOK A DEMO",
+    "section": {
+      "title": "Our most popular documents",
+      "subsection1": {
+        "title": "Business And Contract",
+        "text1": "Non-Disclosure Aggrement",
+        "text2": "LLC Operation Aggrement",
+        "text3": "Independent Contractor Aggrement",
+        "text4": "Business Aggrement"
+      },
+      "subsection2": {
+        "title": "Real Estate",
+        "text1": "Lease Aggrement",
+        "text2": "Eviction Notice",
+        "text3": "Intent to Purchase Real Estate",
+        "text4": "Quitclaim Deed"
+      },
+      "subsection3": {
+        "title": "Family and persoal",
+        "text1": "Last Will and Testament",
+        "text2": "Living Will",
+        "text3": "Divorce Settlement Aggrement",
+        "text4": "Child Care Authorization"
+      },
+      "seeDocument": "SEE MORE DOCUMENTS",
+      "seeAllDocument": "See all documents"
+    }
+  }
+}

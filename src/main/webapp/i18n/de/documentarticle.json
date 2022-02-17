@@ -1,0 +1,32 @@
+{
+  "mayaApp": {
+    "documentarticle": {
+      "home": {
+        "title": "Documentarticles",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Documentarticle erstellen",
+        "createOrEditLabel": "Documentarticle erstellen oder bearbeiten",
+        "notFound": "Keine Documentarticles gefunden"
+      },
+      "created": "Documentarticle erstellt mit ID {{ param }}",
+      "updated": "Documentarticle aktualisiert mit ID {{ param }}",
+      "deleted": "Documentarticle gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Documentarticle {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Documentarticle"
+      },
+      "id": "Id",
+      "documentId": "Document Id",
+      "contractarticleId": "Contractarticle Id",
+      "is_deleted": "Is Deleted",
+      "updateDate": "Update Date",
+      "createDate": "Create Date",
+      "createBy": "Create By",
+      "updateBy": "Update By",
+      "contract": "Contract",
+      "parent": "Parent"
+    }
+  }
+}

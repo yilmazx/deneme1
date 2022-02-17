@@ -1,0 +1,34 @@
+{
+  "mayaApp": {
+    "contractarticle": {
+      "home": {
+        "title": "Contractarticles",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Contractarticle",
+        "createOrEditLabel": "Create or edit a Contractarticle",
+        "notFound": "No Contractarticles found"
+      },
+      "created": "A new Contractarticle is created with identifier {{ param }}",
+      "updated": "A Contractarticle is updated with identifier {{ param }}",
+      "deleted": "A Contractarticle is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Contractarticle {{ id }}?"
+      },
+      "detail": {
+        "title": "Contractarticle"
+      },
+      "id": "ID",
+      "articlename": "Articlename",
+      "detail": "Detail",
+      "uid": "Uid",
+      "isdeleted": "Isdeleted",
+      "isenabled": "Isenabled",
+      "updateDate": "Update Date",
+      "createDate": "Create Date",
+      "createBy": "Create By",
+      "updateBy": "Update By",
+      "contract": "Contract",
+      "parent": "Parent"
+    }
+  }
+}

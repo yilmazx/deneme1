@@ -1,0 +1,36 @@
+{
+  "mayaApp": {
+    "document": {
+      "home": {
+        "title": "Documents",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Document",
+        "createOrEditLabel": "Maak of wijzig een Document",
+        "notFound": "No Documents found"
+      },
+      "created": "A new Document is created with identifier {{ param }}",
+      "updated": "A Document is updated with identifier {{ param }}",
+      "deleted": "A Document is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Document {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Document"
+      },
+      "id": "ID",
+      "documentname": "Documentname",
+      "description": "Description",
+      "uid": "Uid",
+      "path": "Path",
+      "contactId": "Contact Id",
+      "inputs": "Inputs",
+      "is_deleted": "Is Deleted",
+      "isenabled": "Isenabled",
+      "updateDate": "Update Date",
+      "createDate": "Create Date",
+      "createBy": "Create By",
+      "updateBy": "Update By",
+      "contract": "Contract"
+    }
+  }
+}
